@@ -7,6 +7,10 @@ public class Shape {
 		System.out.println("This my last line");
 System.out.println("This is new line added by suresh madhra");
 System.out.println("This is new line added by suresh madhra ");
+
+System.out.println("This is new line added by suresh madhra 1 ");
+System.out.println("This is new line added by suresh madhra 2 ");
+
 	}
 
 }
